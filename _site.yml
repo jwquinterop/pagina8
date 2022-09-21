@@ -1,0 +1,29 @@
+name: "pagina8"
+title: "Wilmar  Quintero"
+description: |
+  
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: about1.html
+    - icon: fas fa-bars
+      menu:
+        - text: "CV"
+          href: content/wilmar-cv.pdf
+        - icon: fab fa-github
+          href: https://github.com/jquinterop1
+        - text: "Google Scholar"
+          href: https://scholar.google.com/citations?user=z1A89gkAAAAJ&hl=es
+
+  
+      
+output:
+  html_document:
+    theme: flatly
+    highlight: pygments
+    css: styles.css

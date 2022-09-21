@@ -1,0 +1,103 @@
+---
+title: "Current Position"
+description: |
+  PhD Student in Applied Economics and Management (AEM) at University of Pavia and University of Bergamo.
+  |
+  
+
+output:
+  distill::distill_article:
+    toc: true
+    css:
+      - css/jhelvy.css
+      - css/small-spacing.css
+twitter:
+  creator: "@JohnHelveston"
+base_url: https://www.jhelvy.com
+preview: images/helveston.png
+
+
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+
+
+<body>
+  <header>
+    <h1 class="main-title">Wilmar`s  Portfolio</h1>
+    <nav class="navigation">
+      <ul>
+        <li>
+          <a href="./index.html">Home</a>
+        </li>
+        <li>
+          <a href="./about1.html">Projects</a>
+        </li>
+
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="contact-section">
+      <h2>Contact Me</h2>
+      <p>Use the links below to contact me and I'll reach out to you as soon as possible</p>
+      <div class="links">
+    
+    
+  </main>
+  <footer class="contact-footer"></footer>
+</body>
+
+
+
+
+
+         
+
+<a href="mailto:josewilmar.quinteropena@universitadipavia.it.com">Send Email</a>
+
+<a href="tel:123-456-7890">Click to call</a>
+
+<a href=""></a>
+<a href="6031112298"></a>
+<a href="tel:6031112298"></a>
+<a href="tel:6031112298p000"></a>
+<a href="tel:+16031112298p000"></a>
+
+
+
+
+<button className="button">
+  <a
+     className="button"
+     href="../assets/Resume/ResumeOfficial.pdf"
+     download
+     >
+    Download Resume
+  </a>
+</button>
+
+
+
+  <section class="contact-section">
+      <h2>Address</h2>
+      <p>Department of Economics
+
+University of Bergamo
+
+via dei Caniana, 2 - 24127 - Bergamo (Italy)</p>
+      <div class="links">
+      
+
+ </main>
+  <footer class="contact-footer">**&copy; All Rights Reserved- This Blog was elaborated with Rmarkdown**</footer>
+
+

@@ -1,0 +1,38 @@
+---
+title: ''
+description: I study how consumers, firms, markets, and policy affect technological
+  change, with a goal of facilitating transitions to sustainable, low-carbon technologies.
+  I have expertise in choice modeling, programming in R, and qualitative research
+  methods, as well as the global electric vehicle industry.
+
+---
+
+
+
+
+
+<div>
+
+
+<div style="float: left; width: 50%;">
+<font size="6"> **Wilmar Quintero**</font> 
+
+![](D:/USER/Downloads/total.png){width=300px height=500px align=left} 
+
+
+</div>
+
+
+
+
+<div style="float: right; width: 50%;">
+<font size="5"> **Hello**</font> 
+
+</div>
+</div>
+<p style="font-family:arcade Georgia; font-size:20px">  I am a doctoral student in Applied Economics and Management at the University of Pavia and the University of Bergamo. I study problems associated with economic development, focusing on the implications of technology on economic inequalities (education and labor market). My work involves econometrics and field experiments to understand the causal impacts of whether certain technology choices can bring positive outcomes.</p> 
+
+
+
+</div>
+

@@ -1,0 +1,58 @@
+---
+title: "Research"
+description: Labour Economics, Public Policy Evaluation ,  Applied Microeconometrics, Technology policy, Tech Regulations.
+
+output:
+  distill::distill_article:
+    toc: true
+    css:
+      - css/jhelvy.css
+      - css/small-spacing.css
+twitter:
+  creator: "@JohnHelveston"
+base_url: https://www.jhelvy.com
+preview: images/helveston.png
+
+---
+
+
+<font size="7"> Publications in Peer Reviewed Journals</font> 
+
++  The digital divide between high school students in Colombia. 
+<i>Telecommunications Policy</i>, 45(10), 102226.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0308596121001300?via%3Dihub">link text</a>
+
+
++  Impact of intellectual property rights on business innovation in Colombia: evidence at firm level." <i>Journal EAN</i>  89 (2020): 131-154.<a href="http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-81602020000200131">link text</a>
+
++  Differential effects of the Lockdown on Labour Market Outcomes. Evidence for an emerging economy. 
+<i>Economics and Sociology</i>, 45(10), 102226.
+<a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85128396110&origin=inward&txGid=e3c06188697774e3f1ef7d180e529bd9">link text</a>
+
+
+
++  Factors Associated to Electronic Banking Adoption in Mexico. 
+<i>The Mexican Journal of Economics and Finance</i>, 45(10), 102226.
+<a href="https://www.remef.org.mx/index.php/remef/article/view/659/818">link text</a>
+
+
++  Theoretical foundation for the creation of an academic program in engineering and data science: a bibliometric application.
+<i>Aibi research, management and engineering journal</i>, Volume 9, Number 3, Pag 49-58.
+<a href="https://revistas.udes.edu.co/aibi/article/view/fundamentacion_teorica_para_la_creacion_de_un_programa_academico_de_ingenieria_y_ciencia_de_datos/2491">link text</a>
+
+
+---
+<font size="6"> **Book chapters**</font>
+
++ Business internationalization: An articulation between economics and organizational studies.
+<i>University Editorial</i>, 45(10), 102226.
+<a href="https://journal.poligran.edu.co/index.php/libros/article/view/3161">link text</a>
+
+
+
++ Technological change, automation, innovation and the labor market in Latin America: a new challenge for regional integration.
+<i>University Editorial</i>, 45(10), 102226.
+<a href="https://journal.poligran.edu.co/index.php/libros/article/view/2390">link text</a>
+
+
+
