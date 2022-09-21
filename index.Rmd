@@ -16,8 +16,7 @@ description: I study how consumers, firms, markets, and policy affect technologi
 
 <div style="float: left; width: 50%;">
 <font size="6"> **Wilmar Quintero**</font> 
-
-![](D:/USER/Downloads/total.png){width=300px height=500px align=left} 
+![](D:/pagina8/pagina8/imagen/total.png){width=300px height=500px align=left} 
 
 
 </div>
